@@ -1,4 +1,4 @@
-# Fundamental Reinforcement Learning
+# Fundamental Reinforcement Learning (In Progress)
 A list of learning resources for fundamental reinforcement learning.
 
 Book
@@ -31,3 +31,6 @@ Auxiliry Tasks
 * A Geometric Perspective on Optimal Representations for Reinforcement Learning, Marc G. Bellemare, et al. [[PDF]](https://arxiv.org/pdf/1901.11530.pdf)
 * A Distributional Perspective on Reinforcement Learning, Marc G. Bellemare, Will Dabney, Rémi Munos [[PDF]](https://arxiv.org/abs/1707.06887)
 
+#### Math for ML
+* A Tutorial on Fisher Information, Alexander Ly, et al. [[PDF]](https://arxiv.org/pdf/1705.01064.pdf)
+* Tutorial on Variational Autoencoders, Carl Doersch. [[PDF]](https://arxiv.org/pdf/1606.05908.pdf)
