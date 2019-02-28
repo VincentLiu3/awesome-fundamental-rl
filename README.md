@@ -23,6 +23,7 @@ Papers
 
 #### Convergence
 * Convergence of Stochastic Iterative Dynamic Programming Algorithms. [[PDF]](https://papers.nips.cc/paper/764-convergence-of-stochastic-iterative-dynamic-programming-algorithms.pdf)
+* Q-Learning, Christopher Watkins and Peter Dayan. [[PDF]](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf)
 * Reinforcement Learning with Function Approximation Converges to a Region. [[PDF]](https://pdfs.semanticscholar.org/6f36/fa118e757ce917b7a03664768787d8b9bb62.pdf)
 * Chattering in SARSA. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.35.325&rep=rep1&type=pdf)
 
