@@ -8,18 +8,20 @@ Book
 
 Papers
 ---
-#### MDP
-* Unifying Task Specification in Reinforcement Learning, Martha White. [[PDF]](http://proceedings.mlr.press/v70/white17a/white17a.pdf)
+#### RL formulation
+MDP & RL tasks 
+* Unifying Task Specification in Reinforcement Learning, Martha White. [[PDF]](http://proceedings.mlr.press/v70/white17a/white17a.pdf)  
 
-#### Discount Factor
+Discount Factor  
 * Rethinking the Discount Factor in Reinforcement Learning: A Decision Theoretic Approach, Silviu Pitis. [[PDF]](https://arxiv.org/pdf/1902.02893.pdf)
 * Hyperbolic Discounting and Learning over Multiple Horizons, William Fedus, et al. [[PDF]](https://arxiv.org/abs/1902.06865)
 
-#### Temporal Differences
-* Learning to predict by the methods of temporal differences, Rich Sutton. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.7760&rep=rep1&type=pdf)
-
 #### Linear Function Approximation
 * An Analysis of Linear Models, Linear Value-Function Approximation, and Feature Selection for Reinforcement Learning. [[PDF]](https://users.cs.duke.edu/~parr/icml08.pdf)
+
+#### Temporal Differences 
+* Learning to predict by the methods of temporal differences, Rich Sutton. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.7760&rep=rep1&type=pdf)
+* TD or not TD: Analyzing the Role of Temporal Differencing in Deep Reinforcement Learning, Artemij Amiranashvili, et al. [[PDF]](https://arxiv.org/pdf/1806.01175.pdf)
 
 #### Convergence
 * Convergence of Stochastic Iterative Dynamic Programming Algorithms. [[PDF]](https://papers.nips.cc/paper/764-convergence-of-stochastic-iterative-dynamic-programming-algorithms.pdf)
