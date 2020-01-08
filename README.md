@@ -34,6 +34,10 @@ Papers
 * Reinforcement Learning with Function Approximation Converges to a Region. [[PDF]](https://pdfs.semanticscholar.org/6f36/fa118e757ce917b7a03664768787d8b9bb62.pdf)
 * Chattering in SARSA. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.35.325&rep=rep1&type=pdf)
 
+#### Sample Complexity of RL algorithms
+* Learning with Good Feature Representations in Bandits and in RL with a Generative Model. Tor Lattimore and Csaba Szepesvari. [[PDF]](https://arxiv.org/pdf/1911.07676.pdf) 
+*  Is a good representation sufficient for sample efficient reinforcement learning. Simon Du, et al. [[PDF]](https://arxiv.org/abs/1910.03016) 
+
 #### RL with Function Approximation
 * Analysis of temporal-diffference learning with function approximation. John Tsitsiklis and Benjamin Van Roy. [[PDF]](http://www.mit.edu/~jnt/Papers/J063-97-bvr-td.pdf)
 * An Analysis of Linear Models, Linear Value-Function Approximation, and Feature Selection for Reinforcement Learning. [[PDF]](https://users.cs.duke.edu/~parr/icml08.pdf)
