@@ -6,19 +6,22 @@ Books
 * Reinforcement Learning: An Introduction. Rich Sutton and Andrew Barto. [[link]](http://www.incompleteideas.net/book/the-book-2nd.html)
 * Algorithms for Reinforcement Learning. Csaba Szepesvari. [[link]](https://sites.ualberta.ca/~szepesva/RLBook.html)
 
+Lecture Notes
+---
+*  Approximate Dynamic Programming. Ben Van Roy. [[link]](https://homes.cs.washington.edu/~todorov/courses/amath579/VanRoy_notes.pdf)
+
 Papers
 ---
 #### RL formulation
-MDP & RL tasks 
 * Unifying Task Specification in Reinforcement Learning. Martha White. [[PDF]](http://proceedings.mlr.press/v70/white17a/white17a.pdf)  
-
-Discount Factor  
 * Rethinking the Discount Factor in Reinforcement Learning: A Decision Theoretic Approach. Silviu Pitis. [[PDF]](https://arxiv.org/pdf/1902.02893.pdf)
-* Hyperbolic Discounting and Learning over Multiple Horizons. William Fedus, et al. [[PDF]](https://arxiv.org/abs/1902.06865)
 
-#### Function Approximation
-* Analysis of temporal-diffference learning with function approximation. John Tsitsiklis and Benjamin Van Roy. [[PDF]](http://www.mit.edu/~jnt/Papers/J063-97-bvr-td.pdf)
-* An Analysis of Linear Models, Linear Value-Function Approximation, and Feature Selection for Reinforcement Learning. [[PDF]](https://users.cs.duke.edu/~parr/icml08.pdf)
+#### Approximate DP
+* Error Propagation for Approximate Policy and Value Iteration. [[PDF]](https://sites.ualberta.ca/~szepesva/papers/ErrorPropAPVI-NIPS09.pdf)
+* Error Bounds for Approximate Policy Iteration. Remi Munos. [[PDF]](http://researchers.lille.inria.fr/~munos/papers/files/API_icml03.pdf)
+
+#### Approximate LP
+* A Linearly Relaxed Approximate Linear Program for Markov Decision Processes. [[PDF]](https://sites.ualberta.ca/~szepesva/papers/2018-lralp-ieee-tac.pdf)
 
 #### Temporal Differences Learning
 * Learning to predict by the methods of temporal differences. Rich Sutton. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.7760&rep=rep1&type=pdf)
@@ -30,15 +33,15 @@ Discount Factor
 * Reinforcement Learning with Function Approximation Converges to a Region. [[PDF]](https://pdfs.semanticscholar.org/6f36/fa118e757ce917b7a03664768787d8b9bb62.pdf)
 * Chattering in SARSA. [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.35.325&rep=rep1&type=pdf)
 
-#### Convergence of Deep Q-learning
+#### RL with Function Approximation
+* Analysis of temporal-diffference learning with function approximation. John Tsitsiklis and Benjamin Van Roy. [[PDF]](http://www.mit.edu/~jnt/Papers/J063-97-bvr-td.pdf)
+* An Analysis of Linear Models, Linear Value-Function Approximation, and Feature Selection for Reinforcement Learning. [[PDF]](https://users.cs.duke.edu/~parr/icml08.pdf)
+
+#### Deep Q-learning
 * Towards Characterizing Divergence in Deep Q-Learning. Joshua Achiam, Ethan Knight, and Pieter Abbeel.
 * Diagnosing Bottlenecks in Deep Q-learning Algorithms. Justin Fu, et al. 
 * Deep Reinforcement Learning and the Deadly Triad. Hado van Hasselt, et al. [[PDF]](https://arxiv.org/pdf/1812.02648.pdf)
-
-#### Representation Learning
-Auxiliry Tasks
-* A Geometric Perspective on Optimal Representations for Reinforcement Learning. Marc G. Bellemare, et al. [[PDF]](https://arxiv.org/pdf/1901.11530.pdf)
-* A Distributional Perspective on Reinforcement Learning. Marc G. Bellemare, Will Dabney, Rémi Munos. [[PDF]](https://arxiv.org/abs/1707.06887)
+* A Theoretical Analysis of Deep Q-Learning. Zhuoran Yang, et al. [[PDF]](https://arxiv.org/pdf/1901.00137.pdf)
 
 #### Math for ML
 * A Tutorial on Fisher Information. Alexander Ly, et al. [[PDF]](https://arxiv.org/pdf/1705.01064.pdf)
