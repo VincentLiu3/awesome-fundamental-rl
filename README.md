@@ -20,6 +20,7 @@ Papers
 #### Approximate DP
 * Error Propagation for Approximate Policy and Value Iteration. [[PDF]](https://sites.ualberta.ca/~szepesva/papers/ErrorPropAPVI-NIPS09.pdf)
 * Error Bounds for Approximate Policy Iteration. Remi Munos. [[PDF]](http://researchers.lille.inria.fr/~munos/papers/files/API_icml03.pdf)
+* Approximate Policy Iteration Schemes: A Comparison. Bruno Scherrer. 
 
 #### Approximate LP
 * A Linearly Relaxed Approximate Linear Program for Markov Decision Processes. [[PDF]](https://sites.ualberta.ca/~szepesva/papers/2018-lralp-ieee-tac.pdf)
