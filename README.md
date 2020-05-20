@@ -18,9 +18,14 @@ Papers
 * Rethinking the Discount Factor in Reinforcement Learning: A Decision Theoretic Approach. Silviu Pitis. [[PDF]](https://arxiv.org/pdf/1902.02893.pdf)
 
 #### Approximate DP
-* Error Propagation for Approximate Policy and Value Iteration. [[PDF]](https://sites.ualberta.ca/~szepesva/papers/ErrorPropAPVI-NIPS09.pdf)
-* Error Bounds for Approximate Policy Iteration. Remi Munos. [[PDF]](http://researchers.lille.inria.fr/~munos/papers/files/API_icml03.pdf)
-* Approximate Policy Iteration Schemes: A Comparison. Bruno Scherrer. 
+* Scherrer B.  Approximate Policy Iteration Schemes: A Comparison. 
+* Farahmand A, Szepesvári C, Munos R. Error Propagation for Approximate Policy and Value Iteration. Advances in Neural Information Processing Systems.
+* Munos R, Szepesvari C. Finite-Time Bounds for Fitted Value Iteration. 2008.
+* Munos R. Performance Bounds in $L_p$‐norm for Approximate Value Iteration. SIAM J Control Optim. 2007.
+* Antos A, Szepesvari C, Munos R. Learning near-optimal policies with Bellman-residual minimization based fitted policy iteration and a single sample path. 2006.
+* Munos R. Error Bounds for Approximate Value Iteration. 2005
+* Munos R. Error Bounds for Approximate Policy Iteration. 2003.
+* Williams R, Baird LC. Tight Performance Bounds on Greedy Policies Based on Imperfect Value Functions. 1993.
 
 #### Approximate LP
 * A Linearly Relaxed Approximate Linear Program for Markov Decision Processes. [[PDF]](https://sites.ualberta.ca/~szepesva/papers/2018-lralp-ieee-tac.pdf)
