@@ -8,6 +8,7 @@ Books
 
 Lecture Notes
 ---
+* CS 598 Statistical Reinforcement Learning. Nan Jiang. [[link]](https://nanjiang.cs.illinois.edu/cs598/)
 * Approximate Dynamic Programming. Ben Van Roy. [[link]](https://homes.cs.washington.edu/~todorov/courses/amath579/VanRoy_notes.pdf)
 * Mathematical Techniques for Machine Learning. Prakash Panangaden. [[link]](https://www.cs.mcgill.ca/~prakash/Courses/599/comp599.html)
 
