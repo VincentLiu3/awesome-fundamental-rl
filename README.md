@@ -18,6 +18,11 @@ Papers
 * Unifying Task Specification in Reinforcement Learning. Martha White. [[PDF]](http://proceedings.mlr.press/v70/white17a/white17a.pdf)  
 * Rethinking the Discount Factor in Reinforcement Learning: A Decision Theoretic Approach. Silviu Pitis. [[PDF]](https://arxiv.org/pdf/1902.02893.pdf)
 
+#### Objectives in RL
+* Scherrer B. Should one compute the Temporal Difference fix point or minimize the Bellman Residual? The unified oblique projection view. [[PDF]](http://arxiv.org/abs/1011.4362)
+* Schoknecht R. Optimality of Reinforcement Learning Algorithms with Linear Function Approximation. Advances in Neural Information Processing Systems. 2015 [[PDF]](http://papers.nips.cc/paper/2322-optimality-of-reinforcement-learning-algorithms-with-linear-function-approximation.pdf)
+
+
 #### Approximate DP
 * Scherrer B.  Approximate Policy Iteration Schemes: A Comparison. 
 * Farahmand A, Szepesvári C, Munos R. Error Propagation for Approximate Policy and Value Iteration. Advances in Neural Information Processing Systems.
@@ -43,7 +48,7 @@ Papers
 
 #### Sample Complexity of RL algorithms
 * Learning with Good Feature Representations in Bandits and in RL with a Generative Model. Tor Lattimore and Csaba Szepesvari. [[PDF]](https://arxiv.org/pdf/1911.07676.pdf) 
-*  Is a good representation sufficient for sample efficient reinforcement learning. Simon Du, et al. [[PDF]](https://arxiv.org/abs/1910.03016) 
+* Is a good representation sufficient for sample efficient reinforcement learning. Simon Du, et al. [[PDF]](https://arxiv.org/abs/1910.03016) 
 
 #### RL with Function Approximation
 * Analysis of temporal-diffference learning with function approximation. John Tsitsiklis and Benjamin Van Roy. [[PDF]](http://www.mit.edu/~jnt/Papers/J063-97-bvr-td.pdf)
