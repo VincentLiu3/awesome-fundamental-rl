@@ -3,8 +3,11 @@ A list of learning resources for fundamental reinforcement learning.
 
 Books
 ---
-* Reinforcement Learning: An Introduction. Rich Sutton and Andrew Barto. [[link]](http://www.incompleteideas.net/book/the-book-2nd.html)
-* Algorithms for Reinforcement Learning. Csaba Szepesvari. [[link]](https://sites.ualberta.ca/~szepesva/RLBook.html)
+* Reinforcement Learning: An Introduction. Rich Sutton and Andrew Barto. [[PDF]](http://www.incompleteideas.net/book/the-book-2nd.html)
+* Algorithms for Reinforcement Learning. Csaba Szepesvari. [[PDF]](https://sites.ualberta.ca/~szepesva/RLBook.html)
+* Reinforcement Learning: Theory and Algorithms. Alekh Agarwal, Nan Jiang, Sham Kakade. [[PDF]](https://rltheorybook.github.io/rl_monograph_AJK.pdf)
+* Neuro-Dynamic Programming. Dimitri P. Bertsekas and John Tsitsiklis. 
+* Markov Decision Processes: Discrete Stochastic Dynamic Programming. Martin Puterman.
 
 Lecture Notes
 ---
@@ -21,7 +24,6 @@ Papers
 #### Objectives in RL
 * Scherrer B. Should one compute the Temporal Difference fix point or minimize the Bellman Residual? The unified oblique projection view. [[PDF]](http://arxiv.org/abs/1011.4362)
 * Schoknecht R. Optimality of Reinforcement Learning Algorithms with Linear Function Approximation. Advances in Neural Information Processing Systems. 2015 [[PDF]](http://papers.nips.cc/paper/2322-optimality-of-reinforcement-learning-algorithms-with-linear-function-approximation.pdf)
-
 
 #### Approximate DP
 * Scherrer B.  Approximate Policy Iteration Schemes: A Comparison. 
