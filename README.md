@@ -56,6 +56,10 @@ Papers
 * Analysis of temporal-diffference learning with function approximation. John Tsitsiklis and Benjamin Van Roy. [[PDF]](http://www.mit.edu/~jnt/Papers/J063-97-bvr-td.pdf)
 * An Analysis of Linear Models, Linear Value-Function Approximation, and Feature Selection for Reinforcement Learning. [[PDF]](https://users.cs.duke.edu/~parr/icml08.pdf)
 
+#### Least-Squares Methods
+* Least-Squares Methods in Reinforcement Learning for Control. Michail Lagoudakis, Ronald Parr, and Michael Littman. [[PDF]](https://users.cs.duke.edu/~parr/setn02.pdf)
+* Linear Least-Squares Algorithms for Temporal Difference Learning. Steven Bradtke, and Andrew Barto. [[PDF]](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1016&context=cs_faculty_pubs)
+
 #### Deep Q-learning
 * Towards Characterizing Divergence in Deep Q-Learning. Joshua Achiam, Ethan Knight, and Pieter Abbeel.
 * Diagnosing Bottlenecks in Deep Q-learning Algorithms. Justin Fu, et al. 
